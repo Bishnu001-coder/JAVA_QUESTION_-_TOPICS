@@ -1,0 +1,100 @@
+1.  What is java? What it is? developed by whom?
+2.  What is oops?
+3.  What is the need of oops?
+4.  Advantages of object oriented language over procedure oriented language.
+5.  Why the name java? What is the previous name of this programming language?
+6.  What is token? (Identifiers, Keywords, DataTypes, Operators)
+7.  What are methods?
+8.  What are the catagories of methods?
+9.  What are the features of oops?
+10. What are objects?
+11. What are classes?
+12. What are the types of variables in oops?
+13. Explain static and non-static?
+14. Can we have more than one reference for an object?
+15. Can we have more than one reference pointing to more than one object?
+16. What is annonymous object or abandon objects?
+17. Explain JVM?
+18. Explain JDK?
+19. Explain JRE?
+20. What is byte code?
+21. What is native code?
+22. Who are Platform Dependent and who are Platform Independent?
+23. What is recursion?
+24. In which memory is JVM executing?
+25. In which memory does main method executing?
+26. Objects are created in which memory?
+27. Explain method overloading?
+28. Explain constructor?
+29. What is default constructor?
+30. What are the types of constructor?
+31. Explain this keyword?
+32. Explain constructor overloading?
+33. Explain this()?
+34. Explain copy constructor?
+35. Can we have class name as datatypes?
+36. Why Java is not completely object-oriented Language?
+37. What is Association?
+38. What is Aggregation and Composition?
+39. What is Inheritance?
+40. What are the types of Inheritance?
+41. What are the advantages of Inheritance?
+42. What is method overriding?
+43. Can we Override static, private and final methods?If not why?
+44. What are co-variant and contra-variant return types?
+45. Which is the supermost class of all the classes in java hierarchy?
+46. What are the methods of Object class?
+47. List the final methods of Object class?
+48. Overriding is used for ?
+49. Overridding is binded at compile-time or run-time? 
+50. What are Annotations?
+
+51. Which class objects should be created in Inheritance?
+52. Can we create classes without Inheritance in java?
+53. What are Access modifiers?
+54. List the access modifiers and their tasks?
+55. What is a private constructor?
+56. Can i access private data member using objects of the same class?
+57. What is factory method?
+58. Explain super keyword?
+59. Explain super()?
+60. Difference between this/this() and super/super()?
+61. What is upcasting and downcasting?
+62. Difference between upcasting and downcasting?
+63. Why upcasting is required?
+64. What is Data Encapsulation?
+65. What is Data Abstraction?
+66. What is Recursion?
+67. What are the advantages of recursion?
+68. What are getter/accessor and setter/mutator?
+69. What is SingleTon class?
+70. What are the steps to create singleton class?
+71. What is Abstract class?
+72. What is Abstract method?
+73. What is Concrete class?
+74. Can we create objects of abstract class?
+75. Can we have constructors in abstract class?
+76. Can we have static methods in abstract class?
+77. Can we have static and non - static data members in abstract class?
+78. Can we have final methods and private methods in abstract class?
+79. Why multiple inheritance cannot be achieved through classes in java?
+80. What is diamond problem?
+81. What is Early Binding and Late Binding?
+82. What is Polymorphism?
+83. What is tight coupling and loose coupling?
+84. What is an interface?
+85. Can we have constructors in interface? Why?
+86. Can we have non static data members in interface?
+87. Can we have blocks in interface?
+88. Explain extends and implements keyword?
+89. Can a interface be extended by another interface?
+90. What is Functional Interface?
+91. What is Marker Interface?
+92. Explain Java8 interface concrete methods?
+93. What is package? how to create it? When to use import keyword?
+94. How many times static blocks gets executed and when?
+95. How many times non-static blocks gets executed and when?
+96. Explain varargs?
+97. What is the first statement in a constructor?
+98. Why Object class in not final class? Explain ?
+99. Explain what happens when we instantiate subclass?
