@@ -1,0 +1,24 @@
+
+
+1. **Odd–Even**
+3. **Digit sum**
+4. **Count number of digits (recursion)**
+5. **Factorial (simple recursion)**
+6. **Neon number**
+7. **Spy number**
+
+8. **Prime number in range + smallest + largest + prime-palindrome**
+9. **Fibonacci series | in range | alternative | recursion**
+10. **Perfect number | in range | alternative | recursion**
+11. **Strong number | in range | alternative | recursion**
+12. **Armstrong number | in range | alternative | recursion**
+13.   Automorphic number in range (recursion + square check loop)
+14. **Binary ↔ Decimal conversion (iterative + recursion)**
+15. **LCM & HCF (recursion)**
+16.   Mirsky number (complex property check)
+---
+
+# 🔴 **HARD LEVEL**
+
+****
+

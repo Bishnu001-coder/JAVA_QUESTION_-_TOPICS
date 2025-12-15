@@ -1,0 +1,53 @@
+DAY-1(20-9-25)
+1)WAJP to print the even odd of a number in array. (E)
+2)WAJP to print the sum of the array. (E)
+3)WAJP to print the maximum element in given array (E)
+4)WAJP to print sum of two equal size array. (E)
+5)WAJP to print sum of two non equal size array.(H)
+6)Moving zero from left and right(H)
+---------------------------------------------------------------
+DAY-2 (22-9-25
+6)WAJP to print 2nd MAX element in the array.-->(E)
+7)WAJP to print 2nd MIN element in the array. -->(E)
+8)WAJP to search the element in the array in (linear search) -->(E)
+9)WAJP to search the element in the array in (Binary search) -->(H)
+10)WAJP to search the element in the array using recurrsion binary search.-->(H)
+-------------------------------------------------------------------------------
+DAY-3 SORTING (23-9-25)
+1)BUBBLE SORT-->(E)
+2)SELECTION SORT--->(E)
+
+DAY-4-(24-9-25
+3)INSERTION SORT-->(H)
+4)MERGE SORT-->(H)
+
+------------------------------------------------------------------------------
+DAY-5(25-9-25)
+5)QUICK SORT-->(H)
+11Q)NUMBER TO WORD CONVERSION?
+-----------------------------------------------------------------------------------
+DAY-6(26-9-25)
+12Q)SUM OF TWO MATRIX-->(E)
+13)WAJP TO PRINT 2 MIN ELEMENT IN THE ARRAY IN THE GIVN 2D ARRAY --->(H)
+14)WAJP TO PRINT THE 2 MAX ELEMENT IN THE 2D ARRAY --->(H)
+--------------------------------------------------------------------------------------
+
+DAY-7(28-9-25)
+15)WAJP TO PRINT PASCAL PYRAMID--->(H) (-X-)
+16)WAJP TO PRINT SPIRAL MATRIX--->(H)  
+17)WJP TO PRINT TRANSPOSE MATRIX---->(E)
+18)WAJP TO PRINT SUM OF DIAGONAL USING ONE FOR LOOP(H)
+--------------------------------------------------------------------
+29-9-25
+public class demo
+psvm(string [] args)
+{
+circle[] a=new circle(30);
+circle[] a=new circle(50);
+circle[] a=new circle(10);
+circle[] a=new circle(20);
+circle[] a=new circle(40);
+
+};
+Arrays.sort(a);
+for(cricle c:a){sop (c);}

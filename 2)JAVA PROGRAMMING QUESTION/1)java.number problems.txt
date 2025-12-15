@@ -1,0 +1,66 @@
+
+
+### 🟢 **Easy (1–20)** — *Basic digit & number logic using `for` and `if-else`*
+
+1. Check if a number is a Palindrome
+2. Check if a number is an Automorphic Number
+3. Check if a number is a Neon Number
+4. Check if a number is a Harshad (Niven) Number
+5. Count the digits in a number
+6. Find the sum of digits of a number
+7. Replace all 0s with 5s in a number
+8. Check if all digits of a number divide the number itself
+9. Find difference between sum of even and odd digits
+10. Check if number is Tidy (digits in non-decreasing order)
+11. Reverse a number
+12. Find the first and last digits of a number
+13. Count how many digits of a number are 4
+14. Find the digital root (repeated digit sum)
+15. Find number of trailing zeros in factorial of a number
+16. Check if a number is Fancy (sum of digits = 9)
+17. Check if a number is divisible by sum of digits
+18. Count how many digits divide the number
+19. Find the last digit of `n`th Fibonacci number
+20. Find the largest digit in a number
+
+---
+
+### 🟡 **Medium (21–40)** — *Number theory + loops (still without arrays)*
+
+21. Count total number of 1s between 1 and n
+22. Count how many numbers from 1 to n have 4 as a digit
+23. Find how many times digit 2 appears from 0 to n
+24. Check if all digits of a number are distinct (using math only)
+25. Count how many times you can sum digits until 1-digit remains
+26. Count how many numbers from L to R are divisible by all their digits
+27. Count square and non-square numbers before n
+28. Find the sum of digits of all numbers from 1 to n
+29. Find if number is divisible by all its non-zero digits
+30. Find if a number is lucky (based on position elimination logic)
+31. Find a number such that x + sum of x’s digits = N
+32. Count digits after decimal in a division (using loop)
+33. Print all numbers up to n where sum of digits is even
+34. Count how many digits in a number are even
+35. Count how many digits in a number are odd
+36. Find the number of digits in a^b
+37. Print last k digits of a^b
+38. Count how many times a number can be divided by 10 before remainder
+39. Check if number is divisible by both sum and product of its digits
+40. Count digits in the product of two numbers (without using arrays or math log)
+
+---
+
+### 🔴 **Hard (41–50)** — *Optimization and tricky logic, but without array*
+
+41. Find the nth number made only from digits 4 and 7
+42. Count how many numbers from 1 to n are palindromes
+43. Find smallest number whose digits multiply to n
+44. Count numbers whose reverse difference is divisible by k
+45. Count numbers from 1 to n that are divisible by digit sum
+46. Find the number of digits in nth Fibonacci number (log formula)
+47. Compute first digit of n!
+48. Find nth number with digit sum 10
+49. Check if number can be written as sum of 3 consecutive numbers
+50. Count total number of digits in numbers from 1 to n
+
+

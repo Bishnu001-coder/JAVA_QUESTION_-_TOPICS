@@ -1,0 +1,97 @@
+Sure! I will provide **examples for all 35 programs and theory questions** to make them clear. I’ll keep it **concise and easy to understand**.
+
+---
+
+## **String Programs in Java – Examples**
+
+### **Basic String Operations**
+
+1. **Reverse a string** – `BISHNU → UNSHIB`---->(E)
+2. **Count lowercase, uppercase, digits, special chars** – `JSPIDER@123 → Upper=7, Lower=0, Digit=3, Special=1`--->(E)
+3. **Arrange string (special/digits first)** – `JSPIDER@123 → @123JSPIDER`---->(E)
+4. **Count vowels** – `BISHNU → I,U → 2 vowels`--->(E)
+5. **Sum of digits in alphanumeric** – `JSPIDER@123 → 1+2+3=6`---->(E)
+
+---
+
+### **Palindrome and Case Conversion**
+
+6. **Check palindrome** – `MADAM → Palindrome`----->(E)
+7. **Uppercase to lowercase** – `JAVA → java`------>(E)
+8. **InitCap** – `java is easy → Java Is Easy`----->(E)
+9. **Reverse sentence/words** –
+
+   * Each word: `JAVA IS EASY → AVAJ SI YSAE`------>(H)
+   * Sentence: `JAVA IS EASY → EASY IS JAVA`------->(H)
+10. **Count number of words** – `JAVA IS EASY → 3 words`----->(H)
+
+---
+
+### **Duplicate Removal and Sorting**
+
+11. **Remove duplicate characters** – `JAVADEV → JAVDE`----->(E)
+12. **Print unique characters** – `JAVADEV → JVDE`---->(E)
+13. **Occurrence of each char** – `JAVADEV → J=1, A=2, V=2, D=1, E=1`------>(H)
+14. **Sort string** – `JAVADEV → AADEJV`----->(H)
+15. **String transformation example** – `HELLO WORLD → HE121 W2R3D`  (X)
+
+---
+
+### **Palindrome Substrings and String Modifications**
+
+16. **Palindrome substrings** – `ABA → A, B, ABA`----->(H)
+17. **Biggest and smallest palindrome** – `ABACDC → Smallest=A, Largest=CDC`----->(H)
+18. **Convert BOSSSS → BOS$S$**------>(H)
+19. **Convert JAVADEV → J V D V (if vowels ≥3)**----->(H)
+20. **Count ABA substrings** – `ABADABABBA → 3`----->(H)
+21. **Remove extra spaces** – `JAVA   IS  EASY → JAVA IS EASY`----->(H)
+22. **Swap two strings** – `str1=JAVA, str2=CODE → str1=CODE, str2=JAVA`---->(H)
+
+---
+
+### **Using `.replace()` Method**
+
+23. **Check anagram** – `LISTEN, SILENT → Anagram`--------->(H)
+24. **Check anagram using recursion** – same as above but recursive---->(H)
+25. **Occurrence using replace** – `JAVADEV → Count of A=2`---->(H)
+26. **Max occurrence** – `JAVADEV → V=2`--->(H)
+27. **Min occurrence** – `JAVADEV → J=1`---->(H)
+28. **2nd max occurrence** – `JAVADEV → A=2`--->(H)
+29. **2nd min occurrence** – `JAVADEV → D=1`--->(H)
+
+---
+
+### **Using `.contains()` Method**
+
+30. **Remove duplicates using contains** – `JAVADEV → JAVDE`---->(H)
+31. **Check pangram** – `THE QUICK BROWN FOX → Missing letters=“S,G,H,J…”`--->(H)
+32. **Print missing vowels** – `BCDFG → Missing vowels=A,E,I,O,U`---->(H)
+
+---
+
+### **Using `.split()` Method**
+
+33.**Remove duplicate words** – `JAVA JAVA IS EASY → JAVA IS EASY`--->(H)
+34.**Occurrence of each word** – `JAVA IS JAVA → JAVA=2, IS=1`--->(H)
+35.**String encode/decode** – `HELLO → Encode=IFMMP, Decode=HELLO`---->(H)
+
+---
+
+### **Theory Questions (with Examples)**
+
+* **Why string is immutable?** → To save memory (SCP) and thread safety.
+* **Difference between StringBuffer & StringBuilder** → Buffer is synchronized (thread-safe), Builder is faster (not synchronized).
+* **Difference between String & StringBuffer/Builder** → String immutable, Buffer/Builder mutable.
+* **SCP (String Constant Pool)** → Pool in memory where string literals are stored to avoid duplicates.
+  Example:
+
+  ```java
+  String s1 = "JAVA";
+  String s2 = "JAVA"; // s1 and s2 refer same object in SCP
+  ```
+
+---
+
+If you want, I can **also provide a ready-to-run Java example for all 35 programs with input & output** in **Notepad-friendly format**.
+
+Do you want me to do that next?

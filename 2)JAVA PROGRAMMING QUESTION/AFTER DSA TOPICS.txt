@@ -1,0 +1,106 @@
+
+## 🧩 **1. COLLECTIONS FRAMEWORK**
+
+1️⃣ **Set and its Implementations**
+
+1. Set
+2. Specification of Set Interface
+3. Difference → List and Set
+4. HashSet → Example
+5. LinkedHashSet
+6. TreeSet
+7. HashSet for Integer Implementation
+8. HashSet remove(Object)
+9. HashSet for Object → Implementation
+
+---
+
+2️⃣ **Iterators**
+10. Iterator
+11. List → ListIterator.listIterator()
+12. ListIterator →
+ E next(), boolean hasNext(),
+ E previous(), boolean hasPrevious(),
+ void add(E e), E set(E e),
+ int nextIndex(), previousIndex(),
+ remove()
+
+---
+
+3️⃣ **Utility Class**
+13. java.util.Collections → Utility class for Collection
+ • void sort(List l)
+ • sort(List l, Comparator)
+
+---
+
+4️⃣ **Map and Its Types**
+14. Map →
+ put(), putAll(), <V> get(Key),
+ boolean containsKey(<K>), boolean containsValue(<V>),
+ <<Set>> keySet(), <<Entry>> entrySet()
+15. HashMap
+16. LinkedHashMap
+17. Hashtable
+18. Difference → Hashtable and HashMap
+19. TreeMap
+
+---
+
+5️⃣ **Practice Programs**
+20. Way to convert number to Roman
+21. Java program → String permutation
+
+---
+
+## ⚙️ **2. EXCEPTION HANDLING**
+
+1. try–catch
+2. throw
+3. finally
+4. Throwable →
+    1) Error → StackOverflowError etc.
+    2) Exception → Runtime, ClassNotFound
+5. finally *(second mention merged here)*
+6. Unchecked Exception
+7. Checked Exception
+8. Exception Propagation
+9. Default Exception Handling
+10. Create Exception
+11. Difference → throw and throws
+
+---
+
+## 🧵 **3. MULTITHREADING**
+
+1. Process-based multitasking
+2. Thread-based multitasking
+3. Thread creation →
+    1) by using Runnable interface
+    2) by using Thread class
+4. When Java program executes → JVM creates main thread, GC thread, thread scheduler
+5. Thread priority
+6. Thread scheduler
+7. sleep(), join(), yield()
+8. Thread life cycle
+9. Runnable thread
+10. join()
+11. Thread → Daemon, Non-Daemon
+12. Synchronization
+13. Deadlock
+14. Inter-thread communication
+15. Difference → wait() and sleep()
+16. yield()
+
+---
+
+## 📁 **4. FILE HANDLING**
+
+1. Stream →
+    • Byte Stream → InputStream, OutputStream
+    • Character Stream → Reader, Writer
+2. Byte Stream
+3. Character Stream
+4. Transfer data from one file to another file
+
+
